@@ -43,7 +43,7 @@ This data approach student achievement in secondary education of two Portuguese 
 - health - current health status (numeric: from 1 - very bad to 5 - very good)
 - absences - number of school absences (numeric: from 0 to 93)
 
-# Installatiom
+# Installation
 Download the folder as a zip file. Extract to file directory.Open the "R-Notebook-Markdown" in chrome to see full execution of code. 
 
 
