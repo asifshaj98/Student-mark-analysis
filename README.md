@@ -1,7 +1,8 @@
 # Student-mark-analysis
 
-#DataSet Source
+### DataSet Source:
 P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
+
 
 # Objective:
 Perform data cleaning and EDA on the dataset of Portugese high school students
@@ -41,3 +42,8 @@ This data approach student achievement in secondary education of two Portuguese 
 - Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
 - health - current health status (numeric: from 1 - very bad to 5 - very good)
 - absences - number of school absences (numeric: from 0 to 93)
+
+# Dependencies
+- RStudio Verison 3.3.0+
+- Excel
+
